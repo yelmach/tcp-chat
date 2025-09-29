@@ -1,4 +1,4 @@
-# TCP Chat - NetCat Implementation
+# TCP Chat - NetCat
 
 A Go implementation of a TCP-based group chat server inspired by NetCat, supporting multiple concurrent clients with real-time messaging, connection management, and comprehensive logging.
 
